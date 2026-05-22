@@ -1,0 +1,6 @@
+{
+  "name": "DulceVision",
+  "description": "Premium multi-platform streaming client, IPTV tuner, and AI recommendations platform designed for absolute entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
